@@ -1,6 +1,6 @@
 import React from 'react';
 import { render } from '@testing-library/react';
-import FavouritesList from './searchForm';
+import FavouritesList from './favouritesList';
 
 describe('FavouritesList component', () => {
   it('displays a message when there are no favourites', () => {
